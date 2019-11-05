@@ -10,7 +10,7 @@ namespace MovieReview_Tests
     [TestClass]
     public class PerformanceTests
     {
-        public static List<MovieReview> JsonReaderList;
+        /*public static List<MovieReview> JsonReaderList;
 
         [AssemblyInitialize]
         public static void InitializeList(TestContext context)
@@ -163,6 +163,6 @@ namespace MovieReview_Tests
             sw.Stop();
             double time = sw.ElapsedMilliseconds / 1000.0;
             Assert.IsTrue(time < 4.0);
-        }
+        }*/
     }
 }
