@@ -9,7 +9,7 @@ namespace MovieRatingLibrary
 {
     public class JsonReader
     {
-        public List<MovieReview> Readthejson(string filepath)
+        /*public List<MovieReview> Readthejson(string filepath)
         {
             string result = string.Empty;
             using (StreamReader r = new StreamReader(filepath))
@@ -18,6 +18,6 @@ namespace MovieRatingLibrary
                 List<MovieReview> items = JsonConvert.DeserializeObject<List<MovieReview>>(json);
                 return items;
             }
-        }
+        }*/
     }
 }
