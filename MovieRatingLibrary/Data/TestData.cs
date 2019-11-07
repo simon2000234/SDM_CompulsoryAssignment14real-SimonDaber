@@ -7,7 +7,6 @@ namespace MovieRatingLibrary
     public class TestData
     {
         public List<MovieReview> MovieReviews { get; set; }
-adasdasdasdasdsa
         public TestData()
         {
             InitializeTestData();
