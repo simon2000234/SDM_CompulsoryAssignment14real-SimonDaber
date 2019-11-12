@@ -40,6 +40,7 @@ namespace MovieRatingLibrary
         {
             int count = 0;
             double average = 0;
+			asdmfksadfældsalæfmsdælanfæsadlnflædkn
 
             foreach (var review in AllMovieReviews)
             {
